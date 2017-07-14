@@ -116,3 +116,8 @@ namespace EntryPoint {
   }
 }
 ```
+
+<p>So This Is How The Code Will Look Like In Visual Studio:</p>
+<img src="https://github.com/Eyad-Syrialover/C-Sharp-Complex/raw/master/Attachments/C%23%20Complex%203.jpg"/>
+<p>If All Goes Will,You Should See This Screen:</p>
+<img src="https://github.com/Eyad-Syrialover/C-Sharp-Complex/raw/master/Attachments/C%23%20Complex%204.jpg"/>
